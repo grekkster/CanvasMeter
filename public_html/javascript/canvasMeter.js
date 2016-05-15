@@ -1,5 +1,6 @@
 window.onload = canvasApp;
 
+//TODO refaktorizovat, tridy, objekty (knihovna pomocnych graf. fci, merak,...)
 function canvasApp() {
     // assign canvas to a variable
     var canvas = document.getElementById("canvas");
