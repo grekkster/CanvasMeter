@@ -1,0 +1,8 @@
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_animations
+http://csit.co.in/blog/wp-content/uploads/2013/09/HTML5_Canvas_Cheat_Sheet.png
+https://html.spec.whatwg.org/#the-canvas-element
+https://www.kirupa.com/html5/creating_simple_html5_canvas_animation.htm - todo - posunout canvas obecn� ven?
+http://codular.com/animation-with-html5-canvas ! timeout
+http://www.html5canvastutorials.com/advanced/html5-canvas-animation-stage/
+http://www.java2s.com/Tutorials/Javascript/Canvas_How_to/Animation/Display_a_new_number_every_second.htm
+http://www.w3resource.com/html5-canvas/
